@@ -49,7 +49,7 @@ apt-get -y install php openssh git wget
 ## Installing (Kali Linux):
 
 ```
-git clone https://github.com/BotolMehedi/bpics
+git clone https://github.com/ShahedNoor/bpics
 cd bpics
 bash bpics.sh
 ```
