@@ -1,7 +1,7 @@
 <h1 align="center">BPICS v1.0</h1>
 
 # bPics
-bPics take shots from target's phone front camera or PC webcam just sending a link.Codded By Botol_Mehedi from Team V-VIRUS
+bPics take shots from target's phone front camera or PC webcam just sending a link.Codded By Shahed Noor from Online Creative Cloud.  
 
 # How it works?
 <p>bPics is process to grab camera shots of target's phone front camera or PC webcam. You can trape target wishing EID or Youtube Video. bPics repository Hosts a fake website using ngrok & serveo server to generate a link. You need to forward the link to the target. After sending the link victim will asked for camera permission and if the target allows it, this tool will grab front camera shots continuously of targeted device.</p>
@@ -22,7 +22,7 @@ $ pkg install php
 <br/>
 $ pkg install openssh
 <br/>
-$ git clone https://github.com/botolmehedi/bpics
+$ git clone https://github.com/ShahedNoor/bpics
 <br/>
 $ pip2 install requests
 <br/>
@@ -68,23 +68,23 @@ Note: Use Mobile Data For Ngrok Link
 <br/>
 If You Face any Kind of problem then contact me on Facebook.
 <br/>
-https://www.facebook.com/TheMehtan
+https://www.facebook.com/shahed.noor.566
 <br/>
 .........................
 <br/>
-JOIN OUR OFFICIAL FACEBOOK HACKERS GROUP For MORE UPDATES : https://www.facebook.com/groups/231747098048450
+JOIN OUR OFFICIAL FACEBOOK GROUP For MORE UPDATES : https://www.facebook.com/groups/736426820203523/?ref=share
 <br/>
 .........................
 <br/>
                            PROUD TO BE A MUSLIM
 <br/>
-                          PROUD TO BE A BOTOL㋡
+                          
 <br/>
 .........................
 <br/>
            EDITING MY SCRIPT WILL NOT MAKE YOU A MASTER OF CODING
 <br/>
-                      My Facebook Id : Mehedi Hasan Ariyan
+                      My Facebook Id : Shahed Noor
 <br/>
                        TRY YOUR BEST, TRUST IN ALLAH DONT LOOSE HOPE
 <br/>
